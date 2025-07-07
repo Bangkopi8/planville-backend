@@ -7,3 +7,4 @@ python-multipart
 langdetect
 numpy
 sentence-transformers==2.2.2
+huggingface_hub==0.14.1
