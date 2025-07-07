@@ -1,6 +1,5 @@
 fastapi
 uvicorn
-sentence-transformers
 gspread
 oauth2client
 python-multipart
@@ -8,3 +7,4 @@ langdetect
 numpy
 sentence-transformers==2.2.2
 huggingface_hub==0.14.1
+tokenizers==0.13.3
